@@ -1,11 +1,10 @@
-p {
+h1 {
   color: red;
 }
 
-.heading1 {
-  color: yellow;
-}
-
-#heading3 {
-  color: blue;
+h4 {
+  color: floralwhite;
+} 
+ h5{ 
+  color: slateblue;
 }
